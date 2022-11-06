@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/uts_bimsputra/BuildConfig.java
+ com.example.uts_bimsputra.BuildConfig
